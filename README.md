@@ -6,7 +6,6 @@
 <p align="left">
   
 <a href="https://t.me/KirillAntropov" target="blank"><img align="center" src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="@kirill_antropov" height="40" width="40" /></a>
-  
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="kirill_antropov" height="40" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="KirillAntropov" height="40" width="40" /></a>
 </p>
@@ -24,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirillAntropov&show_icons=true&locale=en&layout=compact" alt="KirillAntropov" /></p>
 
-<p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=KirillAntropov&" alt="KirillAntropov" /></p>
+<p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=KirillAntropov" alt="KirillAntropov" /></p>
