@@ -9,7 +9,10 @@
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="KirillAntropov" height="40" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KirillAntropov&label=Profile%20views&color=brightgreen&style=plastic" alt="kirill-ant" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KirillAntropov&label=Profile%20views&color=brightgreen&style=plastic" alt="kirill-ant" /> 
+
+
+</p>
    
 
 
